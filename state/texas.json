@@ -1,0 +1,179 @@
+{
+ "name": "texas",
+ "format": "JMVM 4",
+ "group": 7981,
+ "bytes": 590179989,
+ "pieces": [
+  {
+   "file": "texas-1.jmv",
+   "bytes": 37177479,
+   "sha256": "e3d4b60dadb96350a4b771343926e935aab4ef045c98c194c67e9bd66a90b8a3",
+   "south": 31.95216,
+   "west": -106.69922,
+   "north": 36.5626,
+   "east": -101.25
+  },
+  {
+   "file": "texas-2.jmv",
+   "bytes": 33407955,
+   "sha256": "11d6d82787a8f5aac828311307c1a4c3fbf3b7b49b3216856102fa176e361331",
+   "south": 33.72434,
+   "west": -101.25,
+   "north": 36.5626,
+   "east": -99.14062
+  },
+  {
+   "file": "texas-3.jmv",
+   "bytes": 33355594,
+   "sha256": "8201b0d037928aa258a3b8808a6859e4cf18866576e31abbfaec812580bcc3a6",
+   "south": 32.54681,
+   "west": -99.14062,
+   "north": 34.37971,
+   "east": -97.03125
+  },
+  {
+   "file": "texas-4.jmv",
+   "bytes": 39278887,
+   "sha256": "dc567822f6bc8219ebb7f9824413dffecbd07080069abedd8e0e830578c3e8d6",
+   "south": 31.35364,
+   "west": -97.03125,
+   "north": 34.01624,
+   "east": -95.625
+  },
+  {
+   "file": "texas-5.jmv",
+   "bytes": 37054207,
+   "sha256": "09770f5116e547190d76d02de8fc3033462dd1cb73af1ed0d6a516fe03b35753",
+   "south": 31.35364,
+   "west": -95.625,
+   "north": 34.01624,
+   "east": -93.55957
+  },
+  {
+   "file": "texas-6.jmv",
+   "bytes": 39709322,
+   "sha256": "39dc8747f4e5dc2415b7b3436b8f08b3a1da1ac15a077a3e30d2b170da57c3aa",
+   "south": 30.75128,
+   "west": -101.25,
+   "north": 33.72434,
+   "east": -99.14062
+  },
+  {
+   "file": "texas-7.jmv",
+   "bytes": 24188193,
+   "sha256": "de4bb8ba914c4975420f5daf17884c8967c25d373feaf8139274c60850b91d5e",
+   "south": 31.35364,
+   "west": -99.14062,
+   "north": 32.54681,
+   "east": -97.03125
+  },
+  {
+   "file": "texas-8.jmv",
+   "bytes": 21226386,
+   "sha256": "50282f3f2aee624d48af41570d915a4ea249fbbdfd6cf05bc45c4e714d7e5ff5",
+   "south": 30.75128,
+   "west": -106.69922,
+   "north": 31.95216,
+   "east": -104.76562
+  },
+  {
+   "file": "texas-9.jmv",
+   "bytes": 26924395,
+   "sha256": "9187f5790b0983711d02a34d43bde34f233a17495ce9dc6b19fd6ed52b5e3038",
+   "south": 30.75128,
+   "west": -104.76562,
+   "north": 31.95216,
+   "east": -101.25
+  },
+  {
+   "file": "texas-10.jmv",
+   "bytes": 32443645,
+   "sha256": "4dfbf1571c7d19df90d074e328e5551157342e1aa9c803be3381b7ff564ad9e6",
+   "south": 30.14513,
+   "west": -99.14062,
+   "north": 31.35364,
+   "east": -97.03125
+  },
+  {
+   "file": "texas-11.jmv",
+   "bytes": 32198569,
+   "sha256": "bddbac9911651de4346725a4979ac01556bc4152ce9607684dc4298cd794fa1f",
+   "south": 30.14513,
+   "west": -97.03125,
+   "north": 31.35364,
+   "east": -93.42773
+  },
+  {
+   "file": "texas-12.jmv",
+   "bytes": 39827305,
+   "sha256": "08672beae1b9e03342b4855cdbd5765b7b99c0c599223995c8f9c2da0a7dbb3a",
+   "south": 28.96009,
+   "west": -105.29297,
+   "north": 30.75128,
+   "east": -103.35938
+  },
+  {
+   "file": "texas-13.jmv",
+   "bytes": 35043326,
+   "sha256": "4de1cb32f3af18d06a702e27ed7bc941d5b9ffd9626d4f5eeb791241911f8ae7",
+   "south": 28.88316,
+   "west": -103.35938,
+   "north": 30.75128,
+   "east": -101.95312
+  },
+  {
+   "file": "texas-14.jmv",
+   "bytes": 20854298,
+   "sha256": "f4c0817d3b14082fc4a3f150cccc7d40c5bbbbba32b311ddd9b897ea55502c81",
+   "south": 30.14513,
+   "west": -101.95312,
+   "north": 30.75128,
+   "east": -99.14062
+  },
+  {
+   "file": "texas-15.jmv",
+   "bytes": 32533598,
+   "sha256": "37b1dfa556b60caccd7d4c6047b1e2faa74199028d11f634c61233529100972c",
+   "south": 29.53523,
+   "west": -101.95312,
+   "north": 30.14513,
+   "east": -99.14062
+  },
+  {
+   "file": "texas-16.jmv",
+   "bytes": 39203478,
+   "sha256": "1d1c708d4de67857e5a79c1c3786357bec90b11938cf4a3930419aa288c92c32",
+   "south": 25.95804,
+   "west": -99.14062,
+   "north": 30.14513,
+   "east": -97.73438
+  },
+  {
+   "file": "texas-17.jmv",
+   "bytes": 28221400,
+   "sha256": "02ea42c393bdecf5f65d76cbf300a16230190289831cbcd8f2027f0f51122915",
+   "south": 29.53523,
+   "west": -97.73438,
+   "north": 30.14513,
+   "east": -93.60352
+  },
+  {
+   "file": "texas-18.jmv",
+   "bytes": 16647730,
+   "sha256": "4626d149083c6532faf98f7517892f6142a315bd2e9e7a990602e33418e39ad4",
+   "south": 26.39187,
+   "west": -101.33789,
+   "north": 29.53523,
+   "east": -99.14062
+  },
+  {
+   "file": "texas-19.jmv",
+   "bytes": 20884222,
+   "sha256": "8c27380b2f9194903493dbffcf542b8b71e52118d482aadbf64feb5569d39123",
+   "south": 25.76032,
+   "west": -97.73438,
+   "north": 29.53523,
+   "east": -93.69141
+  }
+ ]
+}
