@@ -1,0 +1,152 @@
+{
+ "name": "new-mexico",
+ "format": "JMVM 4",
+ "group": 11660,
+ "bytes": 454374299,
+ "pieces": [
+  {
+   "file": "new-mexico-1.jmv",
+   "bytes": 23847953,
+   "sha256": "42c52dfd551a78d5161d4dfdfa49896ecec90ef255ec0830f7c23677401a43ab",
+   "south": 36.03133,
+   "west": -109.11621,
+   "north": 37.05518,
+   "east": -107.57812
+  },
+  {
+   "file": "new-mexico-2.jmv",
+   "bytes": 33497278,
+   "sha256": "5e2e63bca4f10ee5ad7f1c67053041d2c252f4c4bbc7268bc69ecfd115f4c003",
+   "south": 36.03133,
+   "west": -107.57812,
+   "north": 37.05518,
+   "east": -106.17188
+  },
+  {
+   "file": "new-mexico-3.jmv",
+   "bytes": 33943232,
+   "sha256": "e68b6dce8a784747c15735da5134fe481976b83ee391af87e35f055cb5e48542",
+   "south": 36.03133,
+   "west": -106.17188,
+   "north": 37.0201,
+   "east": -104.76562
+  },
+  {
+   "file": "new-mexico-4.jmv",
+   "bytes": 33719329,
+   "sha256": "5244738919ace36b41c3fe1bdfb33e28da0b32e186d430f648d05589f220c630",
+   "south": 34.88593,
+   "west": -104.76562,
+   "north": 37.05518,
+   "east": -102.91992
+  },
+  {
+   "file": "new-mexico-5.jmv",
+   "bytes": 25449772,
+   "sha256": "d40d8609903a675fe532b0e63dfdaa467351da3b76d2ccfb899bef3910fdf4c7",
+   "south": 34.88593,
+   "west": -109.07227,
+   "north": 36.03133,
+   "east": -107.57812
+  },
+  {
+   "file": "new-mexico-6.jmv",
+   "bytes": 33929317,
+   "sha256": "81951560aeac4127dc4b2287be2727ab4dabe952197ac4886a2b0209cf92f241",
+   "south": 34.88593,
+   "west": -107.57812,
+   "north": 36.03133,
+   "east": -106.17188
+  },
+  {
+   "file": "new-mexico-7.jmv",
+   "bytes": 27466996,
+   "sha256": "1270fafea0ecb915f3e2dd512ea7098e2f9fd22c064492c5d91942d1bf083103",
+   "south": 34.88593,
+   "west": -106.17188,
+   "north": 36.03133,
+   "east": -104.76562
+  },
+  {
+   "file": "new-mexico-8.jmv",
+   "bytes": 31306183,
+   "sha256": "f9e13923e71d6d36b8c49f5d225f1fa98e595e3b1875f046874eb8d2847837ee",
+   "south": 33.13755,
+   "west": -109.07227,
+   "north": 34.88593,
+   "east": -108.28125
+  },
+  {
+   "file": "new-mexico-9.jmv",
+   "bytes": 26949318,
+   "sha256": "2019fff633ffd793784468b9085fc57e8729628c714bcb70bce9b795986cf324",
+   "south": 33.72434,
+   "west": -108.28125,
+   "north": 34.88593,
+   "east": -106.875
+  },
+  {
+   "file": "new-mexico-10.jmv",
+   "bytes": 31973581,
+   "sha256": "89bbd1034664921e06ff3a07663abe6a42f60e9958e7a4635e6a613bb5b643e7",
+   "south": 33.13755,
+   "west": -106.875,
+   "north": 34.88593,
+   "east": -105.46875
+  },
+  {
+   "file": "new-mexico-11.jmv",
+   "bytes": 22659752,
+   "sha256": "cbbc5c89e01272f063916a2745b9c5404cc453f2fea32b90967010cde5270180",
+   "south": 33.13755,
+   "west": -105.46875,
+   "north": 34.88593,
+   "east": -102.96387
+  },
+  {
+   "file": "new-mexico-12.jmv",
+   "bytes": 22673514,
+   "sha256": "e93bd1ba2f35a9eaac3d10736176bc71812e9dc59e20550ebf51a7914ef4db37",
+   "south": 33.13755,
+   "west": -108.28125,
+   "north": 33.72434,
+   "east": -106.875
+  },
+  {
+   "file": "new-mexico-13.jmv",
+   "bytes": 27273650,
+   "sha256": "5d4e4183453f67a6fb4bdac1446ffb88f8a3ec5f2eb29920c71522a3161bc678",
+   "south": 31.27855,
+   "west": -109.11621,
+   "north": 33.13755,
+   "east": -108.28125
+  },
+  {
+   "file": "new-mexico-14.jmv",
+   "bytes": 29792918,
+   "sha256": "ff3e68be9ea93269123df7fdba7edac24e0f87172ba493d12ce604a6a8183439",
+   "south": 31.27855,
+   "west": -108.28125,
+   "north": 33.13755,
+   "east": -106.875
+  },
+  {
+   "file": "new-mexico-15.jmv",
+   "bytes": 25038609,
+   "sha256": "c6455e1d0da9a5873a74739bbb769e77c547310c9c5b829795c5a25b13c0a133",
+   "south": 31.72817,
+   "west": -106.875,
+   "north": 33.13755,
+   "east": -105.46875
+  },
+  {
+   "file": "new-mexico-16.jmv",
+   "bytes": 24852897,
+   "sha256": "2f853845edeb33ff86e56b005c19d1e414a83d6391e606f3d164d5450e9ed9e3",
+   "south": 31.95216,
+   "west": -105.46875,
+   "north": 33.13755,
+   "east": -103.00781
+  }
+ ]
+}
