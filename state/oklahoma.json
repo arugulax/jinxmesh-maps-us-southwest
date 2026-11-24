@@ -1,0 +1,71 @@
+{
+ "name": "oklahoma",
+ "format": "JMVM 4",
+ "group": 23853,
+ "bytes": 190727327,
+ "pieces": [
+  {
+   "file": "oklahoma-1.jmv",
+   "bytes": 28095592,
+   "sha256": "a649f302c317e46c846b445d1a4ce68899a18391309505f350d750c11a67d1b9",
+   "south": 34.16182,
+   "west": -103.05176,
+   "north": 37.05518,
+   "east": -99.14062
+  },
+  {
+   "file": "oklahoma-2.jmv",
+   "bytes": 19210830,
+   "sha256": "5b48f8bd0823858863b24b9e2e18baf01bb4c40a773e344b57c71f7ac7f9b6be",
+   "south": 34.01624,
+   "west": -99.14062,
+   "north": 37.0201,
+   "east": -98.4375
+  },
+  {
+   "file": "oklahoma-3.jmv",
+   "bytes": 40070326,
+   "sha256": "42b0c4f8a916afd12c50223b9d6674deae1278b676a2896d8519d5fae60ac396",
+   "south": 33.65121,
+   "west": -98.4375,
+   "north": 37.0201,
+   "east": -97.03125
+  },
+  {
+   "file": "oklahoma-4.jmv",
+   "bytes": 26542898,
+   "sha256": "cefdc20c2f4790d1e6fd27bd7d55bf77b43c3c0bccdab2c6150c78dd6c36a724",
+   "south": 35.46067,
+   "west": -97.03125,
+   "north": 37.05518,
+   "east": -95.625
+  },
+  {
+   "file": "oklahoma-5.jmv",
+   "bytes": 21284615,
+   "sha256": "7da6105841ad13b9fc0a5e01acbdbfc1c998fac7cfad6286d29bd8bb9c847b02",
+   "south": 35.46067,
+   "west": -95.625,
+   "north": 37.05518,
+   "east": -94.39453
+  },
+  {
+   "file": "oklahoma-6.jmv",
+   "bytes": 27250582,
+   "sha256": "9fd8d77a13ff118b4473728a0e10302bef2b8db7989dfd1f98c2c480d6ec40ce",
+   "south": 33.61462,
+   "west": -97.03125,
+   "north": 35.46067,
+   "east": -95.625
+  },
+  {
+   "file": "oklahoma-7.jmv",
+   "bytes": 28272484,
+   "sha256": "b644f91192356ae0717987a90f1e2316dd3df490ae746ec5beea5f8c36f58e01",
+   "south": 33.54139,
+   "west": -95.625,
+   "north": 35.46067,
+   "east": -94.35059
+  }
+ ]
+}
