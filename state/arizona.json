@@ -1,0 +1,206 @@
+{
+ "name": "arizona",
+ "format": "JMVM 4",
+ "group": 57220,
+ "bytes": 686051099,
+ "pieces": [
+  {
+   "file": "arizona-1.jmv",
+   "bytes": 22885496,
+   "sha256": "3c10875c7bc0665accd469cdffed8969513102d5ba68ffdbe6ef2267a28c6eb7",
+   "south": 35.46067,
+   "west": -114.8291,
+   "north": 37.05518,
+   "east": -113.90625
+  },
+  {
+   "file": "arizona-2.jmv",
+   "bytes": 40001186,
+   "sha256": "fac7f0ca6e5afde68f154497085682082383ce8ab792a34339af5c570fdc45a9",
+   "south": 35.46067,
+   "west": -113.90625,
+   "north": 37.0201,
+   "east": -113.20312
+  },
+  {
+   "file": "arizona-3.jmv",
+   "bytes": 26253062,
+   "sha256": "3e984d0e0e907d00b9ae0f63dc293b91f2d4ac0009efafcefa90f1c529bcf272",
+   "south": 35.46067,
+   "west": -113.20312,
+   "north": 37.0201,
+   "east": -112.5
+  },
+  {
+   "file": "arizona-4.jmv",
+   "bytes": 38669522,
+   "sha256": "48bb724788e9139e48983f47d58ebd13202a29b03dbd687465a8aff204d397e7",
+   "south": 36.03133,
+   "west": -112.5,
+   "north": 37.05518,
+   "east": -111.09375
+  },
+  {
+   "file": "arizona-5.jmv",
+   "bytes": 18021095,
+   "sha256": "bc3c4cf0f613c65fc1d564e5e4ea2295030ef1a18b06950e16015f86acca1688",
+   "south": 36.03133,
+   "west": -111.09375,
+   "north": 37.05518,
+   "east": -110.39062
+  },
+  {
+   "file": "arizona-6.jmv",
+   "bytes": 26581375,
+   "sha256": "bfc7833b899f2cca8736426a3d1c3052de147170630adf375603a099d330f57b",
+   "south": 36.03133,
+   "west": -110.39062,
+   "north": 37.05518,
+   "east": -108.98438
+  },
+  {
+   "file": "arizona-7.jmv",
+   "bytes": 25650109,
+   "sha256": "5c97042f37f4203e6d9c3bbbe5952474039937a55035d2f12d576e664d3a0465",
+   "south": 34.88593,
+   "west": -112.5,
+   "north": 36.03133,
+   "east": -111.09375
+  },
+  {
+   "file": "arizona-8.jmv",
+   "bytes": 36169658,
+   "sha256": "72fd6198f93b41bb62df0b6b2fa7749675ac9cb543a3767d502151cae3c542d6",
+   "south": 34.30714,
+   "west": -111.09375,
+   "north": 36.03133,
+   "east": -108.98438
+  },
+  {
+   "file": "arizona-9.jmv",
+   "bytes": 20096898,
+   "sha256": "db8476c5c25588ec5ab680df2cc770525b86e8b95c45b4d5ef1398ebc1fd7d2b",
+   "south": 34.30714,
+   "west": -114.74121,
+   "north": 35.46067,
+   "east": -113.90625
+  },
+  {
+   "file": "arizona-10.jmv",
+   "bytes": 41721650,
+   "sha256": "136dc21067afa4fdd0093667683e4522ea21784c96326a2ebe049369b057c0ac",
+   "south": 34.30714,
+   "west": -113.90625,
+   "north": 35.46067,
+   "east": -112.5
+  },
+  {
+   "file": "arizona-11.jmv",
+   "bytes": 25163148,
+   "sha256": "2d52cbb29aa603d0ffcfd0de4f77c12caa4edbdb0ff3c3bdfd82dea54c9035df",
+   "south": 34.30714,
+   "west": -112.5,
+   "north": 34.88593,
+   "east": -111.09375
+  },
+  {
+   "file": "arizona-12.jmv",
+   "bytes": 45106559,
+   "sha256": "af660ec1336ab52c7004fa79e7d9d3b5e9c34a55a5966e9c2befab9da1d7f2af",
+   "south": 33.13755,
+   "west": -114.78516,
+   "north": 34.30714,
+   "east": -112.5
+  },
+  {
+   "file": "arizona-13.jmv",
+   "bytes": 38262428,
+   "sha256": "0453004cc9bf84af951d71b92ac6fe11798c978d185c33484c210b3a5d368874",
+   "south": 33.72434,
+   "west": -112.5,
+   "north": 34.30714,
+   "east": -111.09375
+  },
+  {
+   "file": "arizona-14.jmv",
+   "bytes": 36119228,
+   "sha256": "438f153fe5b5b30db714f7ffc40bb3585b4b7fd76508f560330baaaff33350ac",
+   "south": 33.13755,
+   "west": -111.09375,
+   "north": 34.30714,
+   "east": -110.39062
+  },
+  {
+   "file": "arizona-15.jmv",
+   "bytes": 23585808,
+   "sha256": "c6d23321502946c2f3fd396fa6a542733c29bf9158d954a6e3cb0d0addb041c7",
+   "south": 33.13755,
+   "west": -110.39062,
+   "north": 34.30714,
+   "east": -109.6875
+  },
+  {
+   "file": "arizona-16.jmv",
+   "bytes": 24784920,
+   "sha256": "73bb96dd64707ed96259fdf4b96e699989ee2b7d90065170a21497086c8b24dc",
+   "south": 33.13755,
+   "west": -109.6875,
+   "north": 34.30714,
+   "east": -108.98438
+  },
+  {
+   "file": "arizona-17.jmv",
+   "bytes": 29438989,
+   "sha256": "145c5e1e49279d9210e2ae5cb82edd91c8600689fa23829ffc8998dc1f16e367",
+   "south": 33.13755,
+   "west": -112.5,
+   "north": 33.72434,
+   "east": -111.09375
+  },
+  {
+   "file": "arizona-18.jmv",
+   "bytes": 32748461,
+   "sha256": "60a858e262a9a5957fc201822a7bcd65ee9dd9285c85f7a4bed291d7d939e656",
+   "south": 31.72817,
+   "west": -114.87305,
+   "north": 33.13755,
+   "east": -112.5
+  },
+  {
+   "file": "arizona-19.jmv",
+   "bytes": 31951773,
+   "sha256": "2e5082797b62129b8e5e6291a0099103e5dfb32944deb1d2a59430ee9ffac15c",
+   "south": 31.27855,
+   "west": -112.5,
+   "north": 33.13755,
+   "east": -111.09375
+  },
+  {
+   "file": "arizona-20.jmv",
+   "bytes": 40624902,
+   "sha256": "acb8186bd3241e812ce0a24e8707fa85eeff79b7c8ddb349e89f9f89aea52632",
+   "south": 32.54681,
+   "west": -111.09375,
+   "north": 33.13755,
+   "east": -108.98438
+  },
+  {
+   "file": "arizona-21.jmv",
+   "bytes": 30211033,
+   "sha256": "c037cdc935f49242ab1de630b9bfd80a800a80ffd3be50b14743b594c03dab3c",
+   "south": 31.27855,
+   "west": -111.09375,
+   "north": 32.54681,
+   "east": -110.39062
+  },
+  {
+   "file": "arizona-22.jmv",
+   "bytes": 32003799,
+   "sha256": "b43965b6e373b2d0bb6c7e4a0ed3e0415c79124011a752a6799ee614259e7a4f",
+   "south": 31.27855,
+   "west": -110.39062,
+   "north": 32.54681,
+   "east": -108.98438
+  }
+ ]
+}
